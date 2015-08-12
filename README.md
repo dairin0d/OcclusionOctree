@@ -1,2 +1,2 @@
 # OcclusionOctree
-An experiment with octree rasterization
+An experiment with octree rendering (front-to-back splatting with occlusion testing)
